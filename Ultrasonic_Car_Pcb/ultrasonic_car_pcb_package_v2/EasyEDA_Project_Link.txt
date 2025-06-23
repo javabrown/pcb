@@ -1,0 +1,5 @@
+To access the EasyEDA project:
+1. Go to https://easyeda.com
+2. Click on 'Document' > 'Import Project'
+3. Use the included Gerber and schematic files to build or recreate the project.
+Note: Direct share links must be generated from your EasyEDA account.

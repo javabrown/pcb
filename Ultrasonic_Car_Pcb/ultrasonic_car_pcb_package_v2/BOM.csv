@@ -1,0 +1,8 @@
+Designator,Quantity,Component,Value,Footprint
+U1,1,ESP32-CAM,WROVER-KIT,Module
+M1,M2,2,DC Motor,5-9V,Screw_Terminal
+S1,S2,2,Servo Motor,SG90,Header_3Pin
+US1-US4,4,Ultrasonic Sensor,HC-SR04,Header_4Pin
+D1,1,Diode,1N4007,DO-41
+C1-C3,3,Capacitor,100uF,Radial
+IC1,1,Voltage Regulator,AMS1117-3.3,SOT-223
