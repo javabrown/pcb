@@ -1,0 +1,3 @@
+pmset is a command-line utility for macOS (formerly OS X) that controls power management settings, letting users schedule sleep, wake, power on, and shutdown events, and view energy saver details, often mirroring or exceeding the options in the graphical Energy Saver settings. 
+---------------------------------
+sudo pmset -a womp 1 tcpkeepalive 1 sleep 1 displaysleep 5
